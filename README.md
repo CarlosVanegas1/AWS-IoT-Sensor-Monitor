@@ -27,5 +27,10 @@ Una vez que el sistema esté en funcionamiento, leerá continuamente los datos d
 Las contribuciones son bienvenidas. Por favor, abre un issue o pull request para sugerencias o mejoras.
 
 ## Licencia
-MIT
+
+Este proyecto está bajo la Licencia [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/deed.es).
+
+---
+
+**Carlos S. Vanegas** - Contacto: [ing.carlos.vanegas1@gmail.com]
 

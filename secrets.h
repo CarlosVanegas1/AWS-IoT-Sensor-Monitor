@@ -2,11 +2,8 @@
 #define SECRET
 #define THINGNAME "SENSOR"                         //change this
 
-/*const char* ssid     = "VANEGAS";
-const char* password = "1006849389";*/
-
-/*const char* ssid     = "UMNG-PUB-CLL100";
-const char* password = "";*/
+const char* ssid     = "YOUR-SSID";
+const char* password = "YOUR-PASSWORD";
 
 const char WIFI_SSID[] = "UMNG-PUB-CLL100";               //change this
 const char WIFI_PASSWORD[] = "";           //change this
